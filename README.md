@@ -11,5 +11,5 @@ The in-house clinical dataset includes paired CT imaging pre-processing scans ta
 The landmarks we used are primarily based on key vascular or tracheal junctions and prominent anatomical features, which are identified from imaging the same patient at different time points. These landmarks demonstrate high consistency across different evaluators.
 We conducted an inter-rater consistency analysis to validate the reliability of the manual contour/landmark annotations. Specifically, we calculated the Kappa coefficient by comparing the annotations made by multiple evaluators to assess the level of agreement. If the Kappa value is below 0.6, we will further review and refine the annotations. If the Kappa value is 0.6 or above, it indicates significant consistency, and the annotations are considered reliable for subsequent analysis.
 ## 4D-CT Clinical Data Demo
-<img src="https://github.com/computerAItest/GraphMorph/tree/main/GraphMorph/data data_Demo.png" width="700" height="400" alt="demo"/><br/>
+<img src="https://github.com/computerAItest/GraphMorph/tree/main/GraphMorph/data/data_Demo.png" width="700" height="400" alt="demo"/><br/>
 

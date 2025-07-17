@@ -13,8 +13,10 @@ We conducted an inter-rater consistency analysis to validate the reliability of 
 ## 4D-CT Clinical Data Demo
 <img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/data_Demo.png?raw=true" width="900" alt="demo"/><br/>
 
-<img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/4d_slice_registered.gif?raw=true" width="300" alt="demo"/><br/>
-Post-registration 4D-CT 2D rendering
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/4d_slice_registered.gif?raw=true" width="300" alt="demo"/>
+    <img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/4d_volume_registered.gif?raw=true" width="300" alt="demo"/>
+</div>
 
-<img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/4d_volume_registered.gif?raw=true" width="300" alt="demo"/><br/>
-Post-registration 4D-CT 3D rendering
+Post-registration 4D-CT 2D rendering  &nbsp;&nbsp; Post-registration 4D-CT 3D rendering
+
